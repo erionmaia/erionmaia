@@ -8,27 +8,27 @@
 ##
 
 # Sobre Mim / About me
-🧒 Name: Erion Maia
-😬 Ponomes/Pronouns: Ele/Dele - He/His
-💻 Profissão/Profession: Desenvolvedor/Cientista de Dados - Developer/Data Scientist
+🧒 Name: Erion Maia</br>
+😬 Ponomes/Pronouns: Ele/Dele - He/His</br>
+💻 Profissão/Profession: Desenvolvedor/Cientista de Dados - Developer/Data Scientist</br>
 
 ##
 
 # Linguagens-Frameworks-Tecnologias / Languages-Frameorks-Tecnologies
 <div style="display: inline_block"></br>
-    <img height="180em" aling=center alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img height="180em" aling=center alt="django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-    <img height="180em" aling=center alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img height="180em" aling=center alt="spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-    <img height="180em" aling=center alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
-    <img height="180em" aling=center alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img height="180em" aling=center alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
-    <img height="180em" aling=center alt="MySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    <img height="100em" aling=center alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img height="100em" aling=center alt="django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+    <img height="100em" aling=center alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img height="100em" aling=center alt="spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+    <img height="100em" aling=center alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+    <img height="100em" aling=center alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img height="100em" aling=center alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
+    <img height="100em" aling=center alt="MySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
 
 ##
 
 <div>
-    ![Snake animation](https://github.com/erionmaia/erionmaia/commit/809555b20fecfba7be87ee0c23109a14b0b1b151)]
+    [![Snake animation](https://github.com/erionmaia/erionmaia/commit/809555b20fecfba7be87ee0c23109a14b0b1b151)]
 </div>
