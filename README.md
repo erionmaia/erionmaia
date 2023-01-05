@@ -29,4 +29,8 @@
 
 ##
 
-![Snake animation](https://github.com/erionmaia/erionmaia/blob/output/github-contribution-grid-snake.svg)
+<<<<<<< HEAD
+![Snake animation](https://github.com/erionmaia/erionmaia/raw/output/github-contribution-grid-snake.svg)
+=======
+![Snake animation](https://github.com/erionmaia/erionmaia/raw/output/github-contribution-grid-snake.svg)
+>>>>>>> 5c4adf726463a06fae1c2641880a94efe7f2dd5a
