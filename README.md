@@ -3,9 +3,9 @@
 [![GitHub Badge](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/erionmaia)](https://github.com/erionmaia)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/erionmaia/)](https://www.linkedin.com/in/erionmaia/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=whit&link=https://twitter.com/erionschlenger)](https://twitter.com/erionschlenger)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=(https://www.instagram.com/erionschlenger)](https://www.instagram.com/erionschlenger)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/erionschlenger)](https://www.instagram.com/erionschlenger)
 
-##sixtheig
+##
 
 # Sobre Mim / About me
 🧒 Nome/Name: Erion Maia</br>
@@ -29,8 +29,4 @@
 
 ##
 
-<<<<<<< HEAD
 ![Snake animation](https://github.com/erionmaia/erionmaia/raw/output/github-contribution-grid-snake.svg)
-=======
-![Snake animation](https://github.com/erionmaia/erionmaia/raw/output/github-contribution-grid-snake.svg)
->>>>>>> 5c4adf726463a06fae1c2641880a94efe7f2dd5a
