@@ -1,14 +1,14 @@
 # Olá, Eu sou o Erion! :D / Hi, I'm Erion! :D
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/erionmaia)](https://github.com/erionmaia)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erionmaia/)](https://www.linkedin.com/in/erionmaia/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/erionschlenger)](https://twitter.com/erionschlenger)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/erionschlenger)
+[![GitHub Badge](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/erionmaia)](https://github.com/erionmaia)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/erionmaia/)](https://www.linkedin.com/in/erionmaia/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=whit&link=https://twitter.com/erionschlenger)](https://twitter.com/erionschlenger)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=(https://www.instagram.com/erionschlenger)](https://www.instagram.com/erionschlenger)
 
-##
+##sixtheig
 
 # Sobre Mim / About me
-🧒 Name: Erion Maia</br>
+🧒 Nome/Name: Erion Maia</br>
 😬 Ponomes/Pronouns: Ele/Dele - He/His</br>
 💻 Profissão/Profession: Desenvolvedor/Cientista de Dados - Developer/Data Scientist</br>
 
@@ -29,6 +29,4 @@
 
 ##
 
-<div>
-    ![Snake animation](https://github.com/erionmaia/erionmaia/blob/output/github-contribution-grid-snake.svg)
-</div>
+![Snake animation](https://github.com/erionmaia/erionmaia/blob/output/github-contribution-grid-snake.svg)
