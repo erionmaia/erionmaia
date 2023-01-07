@@ -29,4 +29,4 @@
 
 ##
 
-![Snake animation](https://github.com/erionmaia/erionmaia/blob/main/.github/workflows/cobinha.yml)
+![Snake animation](https://github.com/erionmaia/erionmaia/blob/outpuy/github-contribution-grid-snake.svg)
