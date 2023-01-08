@@ -9,7 +9,7 @@
 
 # Sobre Mim / About me
 🧒 Nome/Name: Erion Maia</br>
-😬 Ponomes/Pronouns: Ele/Dele - He/His</br>
+😬 Pronomes/Pronouns: Ele/Dele - He/His</br>
 💻 Profissão/Profession: Desenvolvedor/Cientista de Dados - Developer/Data Scientist</br>
 
 ##
